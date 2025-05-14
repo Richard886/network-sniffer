@@ -18,3 +18,18 @@ A simple packet sniffer built with Python and Scapy that captures and analyzes n
    ```bash
    git clone https://github.com/Richard886/network-sniffer.git
    cd network-sniffer
+Install the required dependencies:
+
+pip install -r requirements.txt
+
+Run the sniffer:
+
+sudo python3 sniffer.py
+
+💬 How to Contribute
+
+Feel free to fork the repository, submit issues, and create pull requests.
+
+📝 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
