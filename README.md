@@ -16,5 +16,5 @@ A simple packet sniffer built with Python and Scapy that captures and analyzes n
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/network-sniffer.git
+   git clone https://github.com/Richard886/network-sniffer.git
    cd network-sniffer
